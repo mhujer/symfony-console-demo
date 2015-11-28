@@ -7,7 +7,9 @@
             "email": "mhujer@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "symfony/console": "2.8.*@beta"
+    },
     "autoload": {
         "psr-4": {
             "App\\": "src"
