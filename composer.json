@@ -1,0 +1,11 @@
+{
+    "name": "mhujer/symfony-console-demo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Hujer",
+            "email": "mhujer@gmail.com"
+        }
+    ],
+    "require": {}
+}
