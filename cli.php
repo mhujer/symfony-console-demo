@@ -10,5 +10,6 @@ $console->add(new App\Command\HelloCommand());
 $console->add(new App\Command\QuestionCommand());
 $console->add(new App\Command\ProgressBarCommand());
 $console->add(new App\Command\TableCommand());
+$console->add(new App\Command\MetaCommand());
 
 $console->run();
